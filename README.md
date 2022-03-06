@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raden Dimas 
 - 👀 I’m interested in Mobile Development using Flutter, Swift,and Kotlin
-- 🌱 I’m currently learning SwiftUI, Machine Learning
+- 🌱 I’m currently learning SwiftUI, Machine Learning, and Clean Architecture
 - 📫 How to reach me dimascode012@gmail.com,justdocode012@gmail.com
 
 
