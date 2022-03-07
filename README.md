@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <img src="https://github-readme-stats.vercel.app/api/?username=raden-dimas012&count_private=true&theme=tokyonight&showicons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raden-dimas012&langs_count=5&theme=tokyonight">
+![](https://komarev.com/ghpvc/?username=raden-dimas012)
 
 
 
