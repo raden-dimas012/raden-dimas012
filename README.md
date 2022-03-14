@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning SwiftUI, UIKit, Flutter, Machine Learning, and Clean Architecture
 - 📫 How to reach me dimascode012@gmail.com,justdocode012@gmail.com
 - 📝 Simplicity is the soul of efficiency. - Austin Freeman
+- 🔍 Let’s go invent tomorrow instead of worrying about what happened yesterday. - Steve Jobs
 
 
 
