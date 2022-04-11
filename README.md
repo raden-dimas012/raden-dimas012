@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile Development using Flutter, Swift,and Kotlin
 - 🌱 I’m currently learning SwiftUI, UIKit, Flutter, Machine Learning, and Clean Architecture
 - 📫 How to reach me dimascode012@gmail.com,justdocode012@gmail.com
-- 📝 Simplicity is the soul of efficiency. - Austin Freeman
+- 📝 The work we do will balance the result 😇.
 
 
 <!---
