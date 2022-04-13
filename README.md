@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SwiftUI, UIKit, Flutter, Machine Learning, and Clean Architecture
 - 📫 How to reach me dimascode012@gmail.com,justdocode012@gmail.com
 - 🔗 Let's connect with my LinkedIn https://www.linkedin.com/in/raden-dimas-0775a41a3/ 
-- 🖌 let's see the article that I made on Medium https://medium.com/@dimascode012
+- 🖌 Let's see the article that I made on Medium https://medium.com/@dimascode012
 - 📝 We may be tired of working and stepping 😌, but it's forbidden to be tired of thinking 😁.
 
 
