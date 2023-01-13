@@ -1,5 +1,5 @@
 - 👋 Hello There, I’m Raden Dimas and I'm Indonesian 🇮🇩
-- 👀 I’m interested in Mobile Development using Flutter, Swift,and Kotlin
+- 👀 I’m interested in Mobile Development using Swift,Dart and Kotlin
 - 🌱 I’m currently learning SwiftUI, UIKit, Flutter, Jetpack Compose, and Clean Architecture
 - 📫 How to reach me dimascode012@gmail.com,justdocode012@gmail.com
 - 🔗 Let's connect with my LinkedIn https://www.linkedin.com/in/raden-dimas-0775a41a3/ 
